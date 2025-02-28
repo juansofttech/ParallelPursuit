@@ -1,0 +1,23 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# Cucumber
+cucumber-html-report/
+cucumber.json
+cucumber.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.vscode
+# TestNG
+test-output/
+Test*.class
+IT*.class
